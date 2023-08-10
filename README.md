@@ -1,0 +1,1 @@
+# count-people-in-place-without-the-cashier
